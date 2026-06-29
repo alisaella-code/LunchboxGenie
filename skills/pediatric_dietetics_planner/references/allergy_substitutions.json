@@ -1,0 +1,14 @@
+{
+  "peanuts": {
+    "substitutes": ["sunflower seed butter", "pumpkin seed butter", "soy butter"],
+    "notes": "Always check labels to ensure 'nut-free facility' processing."
+  },
+  "dairy": {
+    "substitutes": ["oat milk", "coconut yogurt", "vegan cheddar cheese", "hummus"],
+    "notes": "Ensure fortified with Calcium and Vitamin D where possible."
+  },
+  "gluten": {
+    "substitutes": ["quinoa pasta", "corn tortillas", "brown rice crackers"],
+    "notes": "Verify gluten-free certification for prepackaged snacks."
+  }
+}
